@@ -1,0 +1,8 @@
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/client/CMakeFiles/client.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/server/CMakeFiles/server.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/server/CMakeFiles/edit_cache.dir
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir

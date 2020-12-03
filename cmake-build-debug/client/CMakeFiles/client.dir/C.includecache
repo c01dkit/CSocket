@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/SubjectsIn5Sem/ComputerNetworks/lab7/client/client.c
+stdio.h
+-
+stdlib.h
+-
+winsock2.h
+-
+process.h
+-
+

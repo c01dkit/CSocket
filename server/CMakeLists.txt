@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.17)
+project(server C)
+set(CMAKE_C_STANDARD 99)
+ADD_EXECUTABLE(server server.c)
+target_link_libraries(${PROJECT_NAME} -lwsock32)
