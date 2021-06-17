@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <winsock2.h>
 #include <process.h>
+#include <time.h>
 
 //相关参数
 #define SEND_MSG_SOURCE_BIT 20
@@ -166,14 +167,13 @@ void handleRequest(void* i){
 }
 
 int main(){
-
     //初始化
     WSADATA wsaData;
     WSAStartup( MAKEWORD(2, 2), &wsaData);
     for (int i = 0; i < LIST_SIZE; i++){
         clientList[i].state = STOP;
     }
-
+    srand(time(0));
     //创建套接字
     servSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
 
